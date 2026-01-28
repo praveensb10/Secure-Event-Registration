@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Generated Certificates
+static/certificates/*.png
+static/certificates/*.jpg
